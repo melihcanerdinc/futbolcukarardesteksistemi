@@ -1,5 +1,6 @@
 # futbolcukarardesteksistemi
-Futbolcu Seçimi için Karar Destek Sistemi
+Amatör Futbolcu Seçimi için Karar Destek Sistemi
+(DECISION SUPPORT SYSTEM FOR THE SELECTION OF AMATEUR FOOTBALL PLAYERS)
 
 Program FKDS.py adlı kod dosyasından çalışmaktadır.
 (The program works at the FKDS.py.)
