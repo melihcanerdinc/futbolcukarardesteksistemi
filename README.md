@@ -9,5 +9,6 @@ Programı çalıştırabilmek için "PyQt5", "matplotlib", "numpy" kütüphanele
 (You must install "PyQt5", "matplotlib", "numpy" libraries to your IDE for run the program.)
 
 ÇKKV yöntemleri için Valdecy'e teşekkürler.
-Thanks for MCDA methods to Valdecy.
+(Thanks for MCDA methods to Valdecy.)
+
 via github.com/Valdecy
